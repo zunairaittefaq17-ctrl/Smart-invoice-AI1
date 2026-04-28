@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/smartinvoice.db
+uploads/
+.streamlit/secrets.toml
+*.egg-info/
+dist/
+build/
+.DS_Store
